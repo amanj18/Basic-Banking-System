@@ -1,8 +1,19 @@
 # Basic_Banking_System
-This is a simple Banking System made using PHP and JavaScript.
 
-# Restaurant-web
-Restaurant-web is a simple restaurant website template, build with HTML and CSS.
+Description : A simple banking system website where we can transfer the money and checks our transaction history also we check our money balance .This is connected to database all the transaction will reflect in database also . 
+
+Technology used : HTML , CSS , PHP , MySQL 
+
+000 website link : https://put-on-overcurrent.000webhostapp.com/BBS/index.html
+
+Preview :
+
+![image](https://user-images.githubusercontent.com/89749348/190688020-4c49174d-b30a-49e9-8619-907e773d70b2.png)
+![image](https://user-images.githubusercontent.com/89749348/190688091-4b50c68d-7443-4f23-b55e-0304a6ce8f75.png)
+![image](https://user-images.githubusercontent.com/89749348/190688148-3c30ddff-c61a-4498-a257-d615ace3cb05.png)
+![image](https://user-images.githubusercontent.com/89749348/190688208-e1dd4971-fb92-45ef-963e-a2998fef2161.png)
+![image](https://user-images.githubusercontent.com/89749348/190688254-d0ab8087-fb12-4ad4-ab7f-ddd4fb2d8f1b.png)
+
 
 # Build With
 <ul>
@@ -16,11 +27,3 @@ Restaurant-web is a simple restaurant website template, build with HTML and CSS.
   <li><a href="https://fonts.google.com/">Google Fonts</a> - Library of libre licensed fonts</li>
 </ul>
 
-# Author
-<a href="https://github.com/reddykumaraswamy">Reddy Kumaraswamy</a> (author)
-
-# Website Look - Image
-<img src="img/Project_view.jpeg">
-
-# Copyright & License
- &copy;Reddy Kumaraswamy 2021 All Rights Reserved.
