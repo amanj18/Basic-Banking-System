@@ -16,7 +16,7 @@ Description : A simple banking system website where we can transfer the money an
 </ul>
 
 
-000webhost website link : https://sparksproject18.000webhostapp.com/
+000webhost website link : https://sparksproject18.000webhostapp.com/BasicBankingSystem/index.html
 
 Github Website link : https://amanj-18.github.io/Basic-Banking-System/
 
