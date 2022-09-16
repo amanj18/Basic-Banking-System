@@ -4,7 +4,10 @@ Description : A simple banking system website where we can transfer the money an
 
 Technology used : HTML , CSS , PHP , MySQL 
 
+Include PHP part
 000 website link : https://put-on-overcurrent.000webhostapp.com/BBS/index.html
+
+Github Website link : https://amanj-18.github.io/Basic-Banking-System/
 
 Preview :
 
