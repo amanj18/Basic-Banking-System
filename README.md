@@ -1,6 +1,6 @@
 # Basic_Banking_System
 
-Description : A simple banking system website where we can transfer the money and checks our transaction history also we check our money balance .This is connected to database all the transaction will reflect in database also . To use my project you can download my code and also import my sql file in mysql .
+Description : A simple banking system website where we can transfer the money and checks our transaction history also we check our money balance .This is connected to database all the transaction will reflect in database also . To use my project you can download my code and also import my sql file in mysql .To see php part go with 000webhost website link .
 
 
 # Build With
@@ -15,8 +15,6 @@ Description : A simple banking system website where we can transfer the money an
   <li><a href="https://fonts.google.com/">Google Fonts</a> - Library of libre licensed fonts</li>
 </ul>
 
-
-Include PHP part : 
 
 000webhost website link : https://put-on-overcurrent.000webhostapp.com/BBS/index.html
 
